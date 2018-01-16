@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Project Rocket.data.unityweb",
+"asmCodeUrl": "Project Rocket.asm.code.unityweb",
+"asmMemoryUrl": "Project Rocket.asm.memory.unityweb",
+"asmFrameworkUrl": "Project Rocket.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
